@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyNhaHang2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="VIEW_Report">
+    <Key>
+      <PropertyRef Name="DiningTableName" />
+    </Key>
+    <Property Name="DiningTableName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="totalPrice" Type="Double" />
+    <Property Name="PaymentDate" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="QuanLyNhaHang2Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="VIEW_Report" EntityType="Self.VIEW_Report" />
+  </EntityContainer>
+</Schema>

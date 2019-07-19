@@ -1,0 +1,407 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.DataAccess.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.DataAccess.v18.1.UI.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Dialogs.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Mvvm.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.Extensions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraDialogs.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Diagram.v18.1.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraDiagram.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.DataAccess.v18.1.UI.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Mvvm.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Diagram.v18.1.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraDiagram.v18.1.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAccountInfo.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fChangePassword.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLockScreen.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fMain.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fInput.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSwitch.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.rBill.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe.licenses
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.CodeParser.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Data.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.DataAccess.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.DataAccess.v18.1.UI.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Dialogs.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Mvvm.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Office.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Utils.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Xpo.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraBars.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.Extensions.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraDialogs.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraReports.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EntityFramework.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Diagram.v18.1.Core.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraDiagram.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Images.v18.1.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Data.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.DataAccess.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.DataAccess.v18.1.UI.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Mvvm.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Office.v18.1.Core.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Utils.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Xpo.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraBars.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraReports.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EntityFramework.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.Diagram.v18.1.Core.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DevExpress.XtraDiagram.v18.1.xml
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAccountInfo.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fChangePassword.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLockScreen.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fMain.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fInput.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fSwitch.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.rBill.resources
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe.licenses
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+E:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb

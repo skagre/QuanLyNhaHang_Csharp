@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLyNhaHang2ModelStoreContainer" CdmEntityContainer="QuanLyNhaHang2Entities1">
+    <EntitySetMapping Name="VIEW_Report">
+      <EntityTypeMapping TypeName="QuanLyNhaHang2Model.VIEW_Report">
+        <MappingFragment StoreEntitySet="VIEW_Report">
+          <ScalarProperty Name="DiningTableName" ColumnName="DiningTableName" />
+          <ScalarProperty Name="totalPrice" ColumnName="totalPrice" />
+          <ScalarProperty Name="PaymentDate" ColumnName="PaymentDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
